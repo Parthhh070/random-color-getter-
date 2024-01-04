@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+.heading {
+    text-align: center;
+}
+button{
+    height: 30px;
+    width: 200px;
+    margin-bottom: 10px;
+    
+}
+
+.clr{
+    height: 110px;
+    width: 400px;
+    border: 2px solid black;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    margin:auto;
+    width: 50%;
+}
+
+.clr1{
+    background-color: red;
+}
